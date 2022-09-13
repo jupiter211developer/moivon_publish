@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab67b35a.css",
+    "main.js": "/static/js/main.cb2b7e00.js",
+    "static/media/bg.svg": "/static/media/bg.e0c30db233be3c261bc7.svg",
+    "static/media/noize-bg.svg": "/static/media/noize-bg.b49908110a6671e3a326.svg",
+    "static/media/Creativebackground.png": "/static/media/Creativebackground.c0a339e9afab08714d0b.png",
+    "static/media/bgImg.png": "/static/media/bgImg.95974d5eef8fa276dfde.png",
+    "static/media/ProductSans-Regular.ttf": "/static/media/ProductSans-Regular.2765c69613690b1b9c03.ttf",
+    "static/media/Manrope-SemiBold.ttf": "/static/media/Manrope-SemiBold.0a3797b8dd78c25ef6b4.ttf",
+    "static/media/Manrope-Medium.ttf": "/static/media/Manrope-Medium.7e416a42443e06ed7d57.ttf",
+    "static/media/Manrope-Regular.ttf": "/static/media/Manrope-Regular.25323263b2aac026e777.ttf",
+    "static/media/Manrope-Bold.ttf": "/static/media/Manrope-Bold.15c3a2fdedaee1ebf773.ttf",
+    "static/media/ProductSans-Medium.ttf": "/static/media/ProductSans-Medium.50b60017b2706bf654f4.ttf",
+    "static/media/ProductSans-Bold.ttf": "/static/media/ProductSans-Bold.153c4f86d79ce54c810c.ttf",
+    "index.html": "/index.html",
+    "static/media/next.svg": "/static/media/next.8f2067244635a9c53990.svg",
+    "static/media/back.svg": "/static/media/back.583789cedfea782383b7.svg",
+    "main.ab67b35a.css.map": "/static/css/main.ab67b35a.css.map",
+    "main.cb2b7e00.js.map": "/static/js/main.cb2b7e00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab67b35a.css",
+    "static/js/main.cb2b7e00.js"
+  ]
+}
